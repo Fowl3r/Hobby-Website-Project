@@ -1,0 +1,73 @@
+body{background-color:black}
+img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#container
+{
+    width:1200px;
+    height:1000px;
+    margin: 0 auto;
+    background-color: black;
+    border-style:groove;
+    border-color:purple
+}
+
+
+
+}
+#Header
+    {
+        .NBALogo a {
+        background-image: url("Kobe/Logo.jpg");
+        background-size: 300px;
+        display: inline-block;
+        height:190px;
+    }
+
+
+#NavBar
+{
+    width:1200px;
+    height:50px;
+    background-color: lightseagreen;
+    padding-top: 100px;
+
+#Media1{
+    height: 228px;
+    width:308px;
+    padding-left: 50px;
+    padding-bottom:600px;
+
+}
+
+#Media2{
+    height: 228px;
+    width:308px;
+    padding-left: 360px;
+    padding-bottom:600px;
+
+}
+
+#Media3{
+    height: 228px;
+    width:308px;
+    padding-left: 50px;
+    padding-bottom:600px;
+
+}
+
+h1{font-size: 36px;
+                color:purple;
+                text-align:center;
+                text-shadow: hotpink;
+
+            }
+p{
+     font-size: 20px;
+    color:indigo;
+    text-align:center
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    align-content:center
+            }
