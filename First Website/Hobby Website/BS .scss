@@ -1,0 +1,41 @@
+
+.navbarbk {
+    background-color:indigo;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+}
+
+.container-Fluid .navbar{
+    width:100%;
+position: center;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+text-align:center;
+padding: .5rem 1rem;
+display:block;
+    color: rgb(219, 205, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration:none;
+    text-align:center;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+
+
+}
+
+.navbar {
+    display:block;
+    color: rgb(219, 205, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration:none;
+    text-align:center;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.Nav-Link {
+    display:block;
+    padding: .5rem 1rem;
+    color:rgb(248, 212, 8);
+    text-decoration:none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
